@@ -17,5 +17,5 @@ jobs:
         run: docker build -t saidwahidsiteweb .
 
       - name: Success Message
-        run: echo "🎉 Docker image built successfully! 3la slamtk"
+        run: echo "Docker image built successfully! 3la slamtk"
 
